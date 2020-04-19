@@ -8,5 +8,5 @@
  * @param {*} str2
  */
 function test1(str1,str2){
-
+    alert(str1 + str2);
 }
